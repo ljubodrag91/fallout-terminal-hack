@@ -3,7 +3,7 @@ My recreation of terminal hack mini game from fallout series.
 
 Gameplay:
 
-  -You start game with 10 different words,of witch one is the password
+  -You start game with 10 different words,of witch one is the password </br>
   -Guess the password by clicking on word
   -If you guess correctly,winning screen is shown
   -If you didn't guess correctly, the terminal will display likeness score,showing how many letters from selected word are in same
