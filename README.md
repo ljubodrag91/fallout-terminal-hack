@@ -1,5 +1,5 @@
 # fallout-terminal-hack
-My recreation of terminal hack mini game from fallout series. </br>
+My recreation of terminal hack mini game from fallout series, made with java. </br>
 
 Gameplay: </br>
 
@@ -20,3 +20,5 @@ Features: </br>
   -Difficulty (novice,advanced,expert,master),higher the difficulty,bigger the words </br>
   
 ![Alt text](https://github.com/ljubodrag91/fallout-terminal-hack/blob/master/Terminal.PNG)
+
+You can download Terminal.zip file,containing TerminalHack.jar for quick play.(Requires Java)
